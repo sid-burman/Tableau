@@ -1,0 +1,33 @@
+Brand	    Variants 
+ 
+Zen            2 
+ 
+Sony	         6
+ 
+Nokia	          5
+Micromax	 14
+ 
+Apple	       5
+ 
+Asus	      5	
+ 
+HTC	      3
+ 
+Samung	      15
+ 
+Redmi              6
+ 
+Honor              4
+ 
+LG                  11
+ 
+Motorola         9
+Vivo                4
+ 
+Acer               6
+ 
+Intex              12
+ 
+Lava                8
+ 
+Blackberry      4 
